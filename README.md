@@ -24,10 +24,10 @@ The cryptocurrency dataset can be split into four separate classes.  This was es
 Martha can share the two separate visualizations with the board.  The first figure would be a 2D representation of the post-processed dataset.  The second figure is a 3D representation of the post-processed dataset. Martha needs to use both figures to describe what was observed by our model.  Only using one figure would only tell part of the story. 
 
 
-![Screenshot](/images/2D_scatter.png)
+![2D Scatter](/images/2D_scatter.png)
 
-Figure 1: 
+**Figure 1**: 2D Scatter Plot
 
-![Screenshot](/images/3D_scatter.png)
+![3D Scatter](/images/3D_scatter.png)
 
-Figure 2:
+**Figure 2**: 3D Scatter Plot
